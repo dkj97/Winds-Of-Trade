@@ -1,3 +1,8 @@
+IMPORTANT: The code of the game is at present incomplete. It will run but does have some errors.
+
+This project is of creating a trading ship ship game which will allow the players to travel accross islands and buy and sell items.
+
+
 FOLLOW THE FOLLOWING INSTRUCTIONS TO RUN THE ZIP FILE.
 
 Extract the zip file "WindsOfTrade_dkj23_ste73.zip" into a desired folder.
